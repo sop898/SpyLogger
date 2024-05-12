@@ -36,7 +36,8 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 * Get Cookies / Passwords
 * auto start
 * Support Android 13/14
-* Anti Uninstall 
+* Anti Uninstall
+  
 [![Buy Now](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://telegram.me/Ledear_dev)
 ## License
 
