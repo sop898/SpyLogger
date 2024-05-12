@@ -21,22 +21,22 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 
 ## SpyLogger Pro Version 
 
-* Fully undetectable by any antivirus
-* Get All SMS
-* Get Accounts Manager
-* Crypto Stealer
-* recive device information
-* recive all target messages
-* Calls recorder
-* Anti Block Screen
-* Get Installed Apps
-* Screen Reader
-* Get Call logs
-* Get All Contact List
-* Get Cookies / Passwords
-* auto start
-* Support Android 13/14
-* Anti Uninstall
+* 🟢 Fully undetectable by any antivirus
+* 🟢 Get All SMS
+* 🟢 Get Accounts Manager
+* 🟢 Crypto Stealer
+* 🟢 recive device information
+* 🟢 recive all target messages
+* 🟢 Calls recorder
+* 🟢 Anti Block Screen
+* 🟢 Get Installed Apps
+* 🟢 Screen Reader
+* 🟢 Get Call logs
+* 🟢 Get All Contact List
+* 🟢 Get Cookies / Passwords
+* 🟢 auto start
+* 🟢 Support Android 13/14
+* 🟢 Anti Uninstall
   
 [![Buy Now](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://telegram.me/Ledear_dev)
 ## License
