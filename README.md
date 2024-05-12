@@ -37,7 +37,7 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 * auto start
 * Support Android 13/14
 * Anti Uninstall 
-
+[![Buy Now](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://telegram.me/Ledear_dev)
 ## License
 
 [![MIT](https://img.shields.io/badge/License-MIT-red)](https://github.com/sop898/SpyLogger/blob/main/LICENSE)
