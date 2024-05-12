@@ -8,7 +8,7 @@ Android KeyLogger and SMS Capture (software is meant for educational)
 
 ## SpyLogger Free Version 
 
-* ~~ Fully undetectable by any antivirus ~~
+* ~~Fully undetectable by any antivirus~~
 * Capture new text messages and send them to your Telegram bot
 * Send all clicks to your Telegram bote
 * Choose the Activity Main method when accessibility is Enabled (HTML File, WebView, OpenLink, Open Another App, Toast Message)
